@@ -1,6 +1,6 @@
 # HousePricePrediction
 
-A Task from Provided by one of the online source to Keep the analysis and Data Science practise going.
+A task predicting the house price and representing using the scatter plot
 
 ## Output
 
